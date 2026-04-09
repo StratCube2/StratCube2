@@ -1,4 +1,11 @@
-## Hi there 👋
+## Why are you here rn?
+
+Anyway of you wanted to know what im doing for some reason.
+currently:
+-servertabs
+-Adrenium & ReLODed
+
+No experience in existing yet.
 
 <!--
 **StratCube2/StratCube2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
