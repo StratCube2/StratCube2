@@ -7,7 +7,7 @@ currently:
 
 — packgen
 
--[My website](stratcube.github.io)
+-[My website](https://stratcube.github.io/)
 
 No experience in existing yet.
 
