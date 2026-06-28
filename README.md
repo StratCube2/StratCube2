@@ -5,7 +5,7 @@ currently:
 
 — servertabs
 
-— packgen
+— Inventory Sandbox
 
 -[My website](https://stratcube.github.io/)
 
